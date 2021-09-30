@@ -1,16 +1,17 @@
-# fpay
-
-A new Flutter project.
+# Flutterwave Test app
+A new Flutter project which is used to test out mobile money payments using flutterwave standard api from [this package](https://pub.dev/packages/flutterwave_standard "Flutterwave standard").
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+* Clone this repo.
+* Make sure you have the lastest version of flutter(v. 2.2) installed into your machine. 
+* Move into the directory of the repo
+* You can use Android studio or Visual Studio Code.
+* Run ```flutter doctor``` to see if you have any missing depencencies.
+* Run ```flutter pub get``` to get project dependencies.
+* Run ```flutter run``` 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+All the code is in the main file located at lib/main.dart so its easy to check and assess.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks!
